@@ -3,14 +3,17 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    android:padding="4dp">
+    android:padding="4dp"
+    android:background="#ffb04c
+">
 
     <TextView
         android:id="@+id/txtName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="1dp"
-        android:textSize="18sp" />
+        android:textSize="18sp"
+        />
 
     <TextView
         android:id="@+id/txtDistance"
